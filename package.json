@@ -1,5 +1,5 @@
 {
-  "name": "atharsyah-ai-server",
+  "name": "atharsyah-gemini-api",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
